@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AulaThreads</string>
+    <string name="btn_inicio">Iniciar Thread</string>
+    <string name="btn_web">Iniciar Consulta</string>
+</resources>
